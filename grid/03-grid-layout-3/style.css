@@ -43,6 +43,10 @@
   grid-template-columns: repeat(4, 1fr) ;
 }
 
+.menu ul a {
+  color: #fff; 
+}
+
 .sidebar {
   display: grid;
   background-color: #FF7755;
